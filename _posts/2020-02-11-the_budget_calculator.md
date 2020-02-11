@@ -8,5 +8,5 @@ Over the past years  I  sat down thinking deeply how to develop a web app that c
 
 Budgety...
 !
-![2020-02-02-488925.png](https://jameszokah.github.io/josh/assets/2020-02-02-488925.png)
+
 
